@@ -1,1 +1,4 @@
 This is delta. Made on branch dev
+
+
+Denne filen er endret i dev2_branch!
