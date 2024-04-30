@@ -1,6 +1,8 @@
 # Markdown Example
 
-You can find every command and help on this site, [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+You can find every command and help on this site, [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+[This](https://github.github.com/gfm/) is a even better source!
 
 <!-- COMMENTS:
 This content will not appear in the rendered Markdown -->
@@ -83,7 +85,10 @@ def hello_world
 
 
 ## Footnotes
-Dette funket jo veldig dårlig!
+Dette funket jo veldig dårlig! (I previewvinduet til VS code) Funket veldig bra på GitHub! :+1: :shipit:
+
+#### Emojies
+Full list of [Emojies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 Here is a simple footnote[^1].
 
@@ -95,6 +100,7 @@ A footnote can also have multiple lines[^2].
 
 
 ## Alerts
+Dette så også veldig nørd ut i VS code men veldig sexy på GitHub!
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
