@@ -1,0 +1,1 @@
+Hei. Dette er en ny folder laget i en new branch inside VS code.
